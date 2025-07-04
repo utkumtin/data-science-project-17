@@ -24,6 +24,4 @@ sırasıyla kendi local veritabanınızda çalıştırınız.
 * connect_db fonksiyonu içerisinde veritabanına bağlanma bilgileri var. Projenizi kendi localinizde test ederken burada bilgileri kendi local veritabanı bilgilerinizle değiştirerek test ediniz. Ancak kodunuzu <b>pushlarken bu veritabanı bilgilerini ilk bulduğunuz şekilde bırakınız.</b> Çünkü kodlarınız Cloud bir ortamda bu bilgilerle bir veritabanına bağlancaklardır.
 
 # Questions
-* Senaryo:
-    Walter White ve Jesse Pinkman, laboratuvarlarında veri tutmaya karar verdiler. Senin görevin bu verileri analiz edecek bir sistem kurmak.
 * task_manager.py dosyasının içerisindeki fonksiyonların içerisini doldurmaya çalışın
